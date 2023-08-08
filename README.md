@@ -1,6 +1,6 @@
 ## Airline Company Satisfaction Predictions
 
-### Jupyter Notebook DEMO
+### Jupyter Notebook Demo
 
 - [Airline Satisfaction Predictions](https://github.com/andrewtclin/ml-airline-satisfaction-prediction/blob/master/Airline%20Satisfaction%20Analysis_Machine%20Learning%20%26%20Data%20Science.ipynb)
 
