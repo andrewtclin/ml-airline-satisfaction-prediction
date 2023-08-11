@@ -11,7 +11,7 @@
 
 <img src="airline_detections_demo.png" alt="Alt Text" width="400" height="auto">
 
-### Features
+### Highlights
 
 - Utilizes a full data science analysis approach to gather, clean, analyze, and visualize relevant data.
 - Provides insights and recommendations based on the analysis to enhance airline company satisfaction.
