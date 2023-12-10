@@ -7,7 +7,7 @@
 ### Overview
 
 - Performs ML and comprehensive data science analytics for airline company satisfaction.
-- By utilizing machine learning techniques, a predictive model was trained to achieve a satisfaction score of over 90%.
+- Utilizing machine learning techniques, a predictive model was trained to achieve a satisfaction score of over 90%.
 
 <img src="airline_detections_demo.png" alt="Alt Text" width="400" height="auto">
 
