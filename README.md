@@ -13,7 +13,7 @@
 
 ### Highlights
 
-- Performs full data science analysis approach to gather, clean, analyze, and visualize relevant data.
+- Comprehensive data science analysis approach to gather, clean, analyze, and visualize relevant data.
 - Provides insights and recommendations based on the analysis to enhance airline company satisfaction rate.
 - Machine learning algorithms to identify factors affecting the satisfaction rate.
 - Achieves accuracy of 90% and above in predicting airline satisfaction.
