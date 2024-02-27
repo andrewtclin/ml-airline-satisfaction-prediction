@@ -7,7 +7,7 @@
 ### Overview
 
 - Trained a well-performing ML model and performed comprehensive data science analytics for airline company satisfaction.
-- Trained a predictive model, achieved a satisfaction score of over 90%.
+- Trained a predictive model, and achieved a satisfaction score of over 90%.
 
 <img src="airline_detections_demo.png" alt="Demo" width="400" height="auto">
 
