@@ -6,7 +6,7 @@
 
 ### Overview
 
-- Trained a well-performing ML model and performed comprehensive data science analytics for airline company satisfaction, with over 90% accuracy.
+- Trained a well-performing ML model and performed comprehensive data science analytics for airline company satisfaction, over 90% accuracy.
 
 <img src="airline_detections_demo.png" alt="Demo" width="400" height="auto">
 
